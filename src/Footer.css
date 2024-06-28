@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    padding: 30px 30px 20px 30px;
+    background-color: #f3ece2;
+    border-top: 1px solid #e5e5e5;
+  }
+
+  .footer__logo {
+    font-family: 'Quicksand';
+    font-weight: 400;
+    text-transform: lowercase;
+    font-size: 1.5rem;
+  }
+
+  .tel{
+    font-style: normal;
+    color:#777171
+  }
