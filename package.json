@@ -1,5 +1,6 @@
 {
   "name": "form1",
+  "homepage": "https://buchanka.github.io/testforms",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
